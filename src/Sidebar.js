@@ -5,7 +5,9 @@ import {Avatar,IconButton} from '@material-ui/core';
 import ChatIcon from '@material-ui/icons/Chat';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import SearchOutlinedIcon from '@material-ui/icons/SearchOutlined';
-import SidebarChat from "./SidebarChat"
+import SidebarChat from "./SidebarChat";
+
+
 export default function Sidebar() {
     return (
         <div className="sidebar">
